@@ -1,4 +1,4 @@
-// Ricardo Paez Assignment 2 - Speed Detector 2
+// Ricardo Paez Assignment 2, Challenge 2: Speed Detector 2
 
 import javax.swing.JOptionPane;
 
