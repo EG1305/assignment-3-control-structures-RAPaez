@@ -1,4 +1,4 @@
-// Ricardo Paez Assignment 2 - Speed Detector
+// Ricardo Paez Assignment 2 Challenge 1: Speed Detector
 
 import javax.swing.JOptionPane;
 public class SpeedDetector {
