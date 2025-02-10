@@ -11,7 +11,7 @@ public class FindPI {
 		int denominator = 2; // Adding 2 to each operation after the first
 		double pi = 0.0; // Will hold the value of pi/4
 		
-		// Promts the user to enter a int for the amount of iterations
+		// Prompts the user to enter a int for the amount of iterations
 		System.out.println("This program will iteatively find the digits of PI using the Leibniz formula");
 		System.out.println("How many iterations should we use? Please enter an integer");
 		iterations = scanner.nextInt();
