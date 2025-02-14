@@ -22,7 +22,7 @@ public class Mersenne {
 			}
 		}
 		
-		for (int i = 0; i<allPrimes.size(); i++) { // Prints out the primes in the list
+		for (int i = 0; i<allPrimes.size(); i++) { // Prints out the Mersenne primes in the list
 			System.out.print(allPrimes.get(i) + "\t"); // Gives each number space
 			if (i % 10 == 0 && i != 0) { // Makes Columns of ten numbers each row
 				System.out.println();
